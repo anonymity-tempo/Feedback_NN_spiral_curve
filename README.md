@@ -4,8 +4,6 @@
 
 This project simulates the developed feedback neural networks on a spiral example.  
 
-### 1. Files introduction
-
 | Files                        | Introduction                                                 | Details                                                      |
 | ---------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Folder: **past_vision**      | Store intermediate versions of .py files.                    | ---                                                          |
